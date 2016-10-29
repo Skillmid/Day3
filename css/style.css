@@ -1,0 +1,26 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+
+div.section{
+border:1px solid black;
+}
+
+div#one, #three
+{height:10em;
+}
+
+div.child{
+
+	height:50em;
+}
+
+#child-one
+{border:1px solid yellow;
+width:75%;float:left;}
+
+#child-two{
+	border:1px solid red;
+	width:25%;float:left;
+}
